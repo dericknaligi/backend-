@@ -1,1 +1,3 @@
 print("derick")
+SystemError
+staticmethod
